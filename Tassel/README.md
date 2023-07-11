@@ -1,1 +1,1 @@
-## Tassel Project Repository: [[Tassel Repository](https://github.com/mikeriepe/amplifytasselapp)]
+## Tassel Project Repository: [[Tassel](https://github.com/mikeriepe/amplifytasselapp)]
