@@ -1,0 +1,15 @@
+table, td {
+  border: 1px solid;
+}
+
+th {
+  border: 1px solid blue;
+}
+
+tr:hover {
+  background-color: lightgray;
+}
+
+thead {
+  background-color: lightgray;
+}
