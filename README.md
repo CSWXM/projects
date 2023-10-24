@@ -37,8 +37,6 @@ Please check out some of my past group and individual software projects below!
 - Designed and implemented React.js frontend using Material-UI within functional components.
 - Wrote unit tests for backend and frontend as well as end-to-end tests attaining 100% code coverage.
 
-[Demo & Resources]()
-
 [Repository](https://github.com/CSWXM/full_stack_web_app.git)
 
 
