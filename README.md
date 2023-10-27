@@ -2,7 +2,7 @@
 
 Hey there! I'm Collin, a recent Computer Science B.S. graduate from UCSC with extensive hands on development experience in collaborative team environments. I am committed to adhering to industry best practices, encompassing methodologies like Scrum for project management, code review, rigorous unit and end-to-end testing, and close engagement with stakeholders to ensure alignment with project objectives.
 
-My academic journey has been enriched by a diverse range of computer science electives and capstone courses, providing me with expertise in AI, databases, full-stack web development and more.
+Taking nearly 40 additional units beyond the 180 required to graduate, my academic journey has been enriched by a diverse range of computer science electives and capstone courses, providing me with expertise in AI, databases, full-stack web development and more.
 
 I am passionate about all kinds of software development and welcome the opportunity to connect and discuss how we can advance technology and innovation together!
 
