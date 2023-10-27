@@ -24,7 +24,7 @@ Please check out some of my past group and individual software projects below!
 - Led a team of 5 in the development of a comprehensive time management web application utilizing SCRUM methodology.
 - Mentored and guided team members in acquiring proficiency in CSS, HTML, JavaScript, React.js, and SQL ensuring growth and success in the project.
 
-[Demo & Resources](https://drive.google.com/drive/folders/15VwXMv_C9pVggziatBlXhtKhAjUWAV28?usp=share_link)
+[Demo & Resources](https://drive.google.com/drive/folders/15VwXMv_C9pVggziatBlXhtKhAjUWAV28?usp=sharing)
 
 [Repository](https://github.com/SimeonAT/Bagel.io.git)
 
