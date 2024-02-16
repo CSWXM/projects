@@ -8,7 +8,7 @@ I am passionate about all kinds of software development and welcome the opportun
 
 Please check out some of my past group and individual software projects below!
 
-## Tassel - UCSC Alumni Volunteering Platform (6 Month Senior Design Project)
+## Tassel - UCSC Alumni Volunteering Platform (1+ Yr Senior Design Project)
 *Description*
 - Sponsored by the UCSC Alumni Council as the project owner in a team of 6 to create an innovative web application for connecting alumni to events on campus for senior design project.
 - Leveraged React.js expertise to develop various modern and intuitive pages within the application’s frontend.
