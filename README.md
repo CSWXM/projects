@@ -8,7 +8,7 @@ I am passionate about all kinds of software development and welcome the opportun
 
 Please check out some of my past group and individual software projects below!
 
-## Tassel - UCSC Alumni Volunteering Platform (1+ Yr Senior Design Project)
+## Tassel - UCSC Alumni Volunteering Platform (Senior Design Project)
 *Description*
 - Sponsored by the UCSC Alumni Council as the project owner in a team of 6 to create an innovative web application for connecting alumni to events on campus for senior design project.
 - Leveraged React.js expertise to develop various modern and intuitive pages within the application’s frontend.
@@ -19,7 +19,7 @@ Please check out some of my past group and individual software projects below!
 
 [Repository](https://github.com/mikeriepe/amplifytasselapp/tree/28dc16aa38cb5df01a57a32937f3516cae9666f4/amplifytassel)
 
-## Bagel.io - Time Management & Visualization Tool (3 Month Group Project)
+## Bagel.io - Time Management & Visualization Tool (Group Project)
 *Description*
 - Led a team of 5 in the development of a comprehensive time management web application utilizing SCRUM methodology.
 - Mentored and guided team members in acquiring proficiency in CSS, HTML, JavaScript, React.js, and SQL ensuring growth and success in the project.
